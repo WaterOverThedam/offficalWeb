@@ -1,0 +1,78 @@
+ ------------8.8.4.4------------
+
+通过最多 30 个跃点跟踪
+到 lessonplans.thelittlegym.com [65.122.6.86] 的路由:
+
+  1     2 ms     2 ms     1 ms  192.168.1.1 
+  2    11 ms    25 ms     8 ms  100.64.0.1 
+  3    32 ms    38 ms    14 ms  218.65.140.25 
+  4    28 ms    16 ms    10 ms  116.253.188.233 
+  5    30 ms    24 ms    30 ms  202.97.74.253 
+  6     *        *        *     请求超时。
+  7     *        *        *     请求超时。
+  8   194 ms   194 ms   200 ms  202.97.58.250 
+  9   175 ms   180 ms   190 ms  202.97.50.58 
+ 10   197 ms   188 ms   185 ms  sjp-brdr-05.inet.qwest.net [63.146.27.133] 
+ 11   335 ms     *      402 ms  phn-edge-05.inet.qwest.net [67.14.40.6] 
+ 12   318 ms   278 ms   213 ms  207-108-130-3.dia.static.qwest.net [207.108.130.3] 
+ 13   208 ms     *      210 ms  www.thelittlegym.com [65.122.6.86] 
+
+跟踪完成。
+
+通过最多 30 个跃点跟踪
+到 training.thelittlegym.com [65.122.6.86] 的路由:
+
+  1     5 ms    12 ms    11 ms  192.168.1.1 
+  2    15 ms    10 ms    23 ms  100.64.0.1 
+  3    10 ms     8 ms    17 ms  218.65.140.25 
+  4    11 ms    10 ms    26 ms  116.253.188.233 
+  5    31 ms    41 ms    35 ms  202.97.74.253 
+  6     *        *        *     请求超时。
+  7     *        *        *     请求超时。
+  8   291 ms   290 ms   290 ms  202.97.58.250 
+  9   284 ms   278 ms   285 ms  202.97.50.58 
+ 10   220 ms   236 ms     *     sjp-brdr-05.inet.qwest.net [63.146.27.133] 
+ 11   226 ms     *      196 ms  phn-edge-05.inet.qwest.net [67.14.40.6] 
+ 12   316 ms   315 ms   321 ms  207-108-130-3.dia.static.qwest.net [207.108.130.3] 
+ 13   237 ms   246 ms   252 ms  www.thelittlegym.com [65.122.6.86] 
+
+跟踪完成。
+ ------------Default-------------
+
+通过最多 30 个跃点跟踪
+到 lessonplans.thelittlegym.com [65.122.6.86] 的路由:
+
+  1     4 ms     1 ms     1 ms  192.168.1.1 
+  2    15 ms    10 ms    13 ms  100.64.0.1 
+  3    11 ms    16 ms   102 ms  218.65.140.25 
+  4    16 ms    11 ms    20 ms  116.253.188.233 
+  5    28 ms    30 ms    25 ms  202.97.56.113 
+  6     *        *        *     请求超时。
+  7     *        *        *     请求超时。
+  8   208 ms   223 ms   214 ms  202.97.58.250 
+  9   215 ms   221 ms     *     202.97.50.58 
+ 10   188 ms   203 ms   193 ms  sjp-brdr-05.inet.qwest.net [63.146.27.133] 
+ 11   303 ms   307 ms   297 ms  phn-edge-05.inet.qwest.net [67.14.40.6] 
+ 12   319 ms   317 ms     *     207-108-130-3.dia.static.qwest.net [207.108.130.3] 
+ 13   213 ms   211 ms   207 ms  www.thelittlegym.com [65.122.6.86] 
+
+跟踪完成。
+
+通过最多 30 个跃点跟踪
+到 training.thelittlegym.com [65.122.6.86] 的路由:
+
+  1     1 ms     6 ms     1 ms  192.168.1.1 
+  2    14 ms    10 ms     8 ms  100.64.0.1 
+  3    24 ms    10 ms    14 ms  218.65.140.25 
+  4    19 ms    10 ms    13 ms  116.253.188.233 
+  5    31 ms    31 ms    29 ms  202.97.56.109 
+  6     *        *        *     请求超时。
+  7     *        *        *     请求超时。
+  8     *      205 ms   193 ms  202.97.58.250 
+  9   179 ms   179 ms   177 ms  202.97.50.58 
+ 10     *      187 ms   189 ms  sjp-brdr-05.inet.qwest.net [63.146.27.133] 
+ 11   204 ms   219 ms   209 ms  phn-edge-05.inet.qwest.net [67.14.40.6] 
+ 12   244 ms   324 ms   290 ms  207-108-130-3.dia.static.qwest.net [207.108.130.3] 
+ 13   208 ms     *      211 ms  www.thelittlegym.com [65.122.6.86] 
+
+跟踪完成。

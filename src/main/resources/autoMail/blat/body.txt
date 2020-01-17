@@ -1,0 +1,25 @@
+
+通过最多 30 个跃点跟踪
+到 littlegym.wmod.llnwd.net [69.28.146.183] 的路由:
+
+  1     3 ms     6 ms     5 ms  rtrflt.thelittlegym.com [192.168.0.1] 
+  2    10 ms     5 ms     3 ms  140.206.128.41 
+  3     9 ms    13 ms    14 ms  58.247.220.57 
+  4     8 ms     7 ms     7 ms  139.226.201.69 
+  5     7 ms     4 ms     5 ms  219.158.98.153 
+  6    39 ms    45 ms    36 ms  219.158.100.202 
+  7    47 ms    32 ms    45 ms  219.158.23.14 
+  8    33 ms    35 ms    42 ms  219.158.97.34 
+  9     *      266 ms   270 ms  219.158.102.90 
+ 10     *        *      301 ms  219.158.39.46 
+ 11   264 ms   288 ms   510 ms  207.88.15.94.ptr.us.xo.net [207.88.15.94] 
+ 12   393 ms   392 ms   358 ms  216.156.64.126.ptr.us.xo.net [216.156.64.126] 
+ 13   305 ms   296 ms   300 ms  scds70.lax.llnw.net [69.28.146.183] 
+
+跟踪完成。
+
+通过最多 30 个跃点跟踪
+到 littlegym.wmod.llnwd.net [69.28.146.183] 的路由:
+
+  1     8 ms     3 ms     2 ms  rtrflt.thelittlegym.com [192.168.0.1] 
+  2     9 ms     3 ms     9 ms  

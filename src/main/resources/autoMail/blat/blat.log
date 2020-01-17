@@ -1,0 +1,331 @@
+
+2014.11.06 10:04:49 (Thu)------------Start of Session-----------------
+Blat v3.1.1 (build : Feb 27 2013 20:04:23)
+32-bit Windows, Full, Unicode
+2014.11.06 10:04:49 (Thu): <<<getline<<< 220 smtp.qq.com Esmtp QQ Mail Server
+2014.11.06 10:04:49 (Thu): >>>putline>>> EHLO tony-pc
+2014.11.06 10:04:49 (Thu): <<<getline<<< 250-smtp.qq.com
+2014.11.06 10:04:49 (Thu): <<<getline<<< 250-PIPELINING
+2014.11.06 10:04:49 (Thu): <<<getline<<< 250-SIZE 52428800
+2014.11.06 10:04:49 (Thu): <<<getline<<< 250-STARTTLS
+2014.11.06 10:04:49 (Thu): <<<getline<<< 250-AUTH LOGIN PLAIN
+2014.11.06 10:04:49 (Thu): <<<getline<<< 250-AUTH=LOGIN
+2014.11.06 10:04:49 (Thu): <<<getline<<< 250-MAILCOMPRESS
+2014.11.06 10:04:49 (Thu): <<<getline<<< 250 8BITMIME
+2014.11.06 10:04:52 (Thu): Sending 500005_TracetResut.txt to wu.yong@thelittlegym.com.cn
+2014.11.06 10:04:52 (Thu): Subject: 500005_TracetResut
+2014.11.06 10:04:52 (Thu): Login name is 57581600@qq.com
+2014.11.06 10:04:52 (Thu): Attached binary file: 500005_TracetResut.txt
+2014.11.06 10:04:52 (Thu): >>>putline>>> AUTH PLAIN  *****
+2014.11.06 10:04:52 (Thu): <<<getline<<< 235 Authentication successful
+2014.11.06 10:04:52 (Thu): >>>putline>>> MAIL FROM:<57581600@qq.com>
+2014.11.06 10:04:52 (Thu): <<<getline<<< 250 Ok
+2014.11.06 10:04:52 (Thu): >>>putline>>> RCPT TO:<wu.yong@thelittlegym.com.cn>
+2014.11.06 10:04:52 (Thu): <<<getline<<< 250 Ok
+2014.11.06 10:04:52 (Thu): >>>putline>>> DATA
+2014.11.06 10:04:52 (Thu): <<<getline<<< 354 End data with <CR><LF>.<CR><LF>
+2014.11.06 10:04:53 (Thu): <<<getline<<< 250 Ok: queued as 
+2014.11.06 10:04:53 (Thu): >>>putline>>> QUIT
+2014.11.06 10:04:53 (Thu): <<<getline<<< 221 Bye
+2014.11.06 10:04:53 (Thu)-------------End of Session------------------
+
+2014.11.06 10:28:26 (Thu)------------Start of Session-----------------
+Blat v3.1.1 (build : Feb 27 2013 20:04:23)
+32-bit Windows, Full, Unicode
+2014.11.06 10:28:26 (Thu): <<<getline<<< 220 smtp.qq.com Esmtp QQ Mail Server
+2014.11.06 10:28:26 (Thu): >>>putline>>> EHLO tony-pc
+2014.11.06 10:28:26 (Thu): <<<getline<<< 250-smtp.qq.com
+2014.11.06 10:28:26 (Thu): <<<getline<<< 250-PIPELINING
+2014.11.06 10:28:26 (Thu): <<<getline<<< 250-SIZE 52428800
+2014.11.06 10:28:26 (Thu): <<<getline<<< 250-STARTTLS
+2014.11.06 10:28:26 (Thu): <<<getline<<< 250-AUTH LOGIN PLAIN
+2014.11.06 10:28:26 (Thu): <<<getline<<< 250-AUTH=LOGIN
+2014.11.06 10:28:26 (Thu): <<<getline<<< 250-MAILCOMPRESS
+2014.11.06 10:28:26 (Thu): <<<getline<<< 250 8BITMIME
+2014.11.06 10:28:29 (Thu): Sending 500005_TracetResut.txt to wu.yong@thelittlegym.com.cn
+2014.11.06 10:28:29 (Thu): Subject: 500005_TracetResut
+2014.11.06 10:28:29 (Thu): Login name is 57581600@qq.com
+2014.11.06 10:28:29 (Thu): Attached binary file: 500005_TracetResut.txt
+2014.11.06 10:28:29 (Thu): >>>putline>>> AUTH PLAIN  *****
+2014.11.06 10:28:29 (Thu): <<<getline<<< 235 Authentication successful
+2014.11.06 10:28:29 (Thu): >>>putline>>> MAIL FROM:<57581600@qq.com>
+2014.11.06 10:28:29 (Thu): <<<getline<<< 250 Ok
+2014.11.06 10:28:29 (Thu): >>>putline>>> RCPT TO:<wu.yong@thelittlegym.com.cn>
+2014.11.06 10:28:29 (Thu): <<<getline<<< 250 Ok
+2014.11.06 10:28:29 (Thu): >>>putline>>> DATA
+2014.11.06 10:28:29 (Thu): <<<getline<<< 354 End data with <CR><LF>.<CR><LF>
+2014.11.06 10:28:30 (Thu): <<<getline<<< 250 Ok: queued as 
+2014.11.06 10:28:30 (Thu): >>>putline>>> QUIT
+2014.11.06 10:28:30 (Thu): <<<getline<<< 221 Bye
+2014.11.06 10:28:30 (Thu)-------------End of Session------------------
+
+2014.11.23 10:34:49 (Sun)------------Start of Session-----------------
+Blat v3.1.1 (build : Feb 27 2013 20:04:23)
+32-bit Windows, Full, Unicode
+2014.11.23 10:34:50 (Sun): <<<getline<<< 220 smtp.qq.com Esmtp QQ Mail Server
+2014.11.23 10:34:50 (Sun): >>>putline>>> EHLO tony-pc
+2014.11.23 10:34:51 (Sun): <<<getline<<< 250-smtp.qq.com
+2014.11.23 10:34:51 (Sun): <<<getline<<< 250-PIPELINING
+2014.11.23 10:34:51 (Sun): <<<getline<<< 250-SIZE 52428800
+2014.11.23 10:34:51 (Sun): <<<getline<<< 250-STARTTLS
+2014.11.23 10:34:51 (Sun): <<<getline<<< 250-AUTH LOGIN PLAIN
+2014.11.23 10:34:51 (Sun): <<<getline<<< 250-AUTH=LOGIN
+2014.11.23 10:34:51 (Sun): <<<getline<<< 250-MAILCOMPRESS
+2014.11.23 10:34:51 (Sun): <<<getline<<< 250 8BITMIME
+2014.11.23 10:34:54 (Sun): Sending 500005_TracetResut.txt to wu.yong@thelittlegym.com.cn
+2014.11.23 10:34:54 (Sun): Subject: 500005_TracetResut
+2014.11.23 10:34:54 (Sun): Login name is 57581600@qq.com
+2014.11.23 10:34:54 (Sun): Attached binary file: 500005_TracetResut.txt
+2014.11.23 10:34:54 (Sun): >>>putline>>> AUTH PLAIN  *****
+2014.11.23 10:34:54 (Sun): <<<getline<<< 235 Authentication successful
+2014.11.23 10:34:54 (Sun): >>>putline>>> MAIL FROM:<57581600@qq.com>
+2014.11.23 10:34:54 (Sun): <<<getline<<< 250 Ok
+2014.11.23 10:34:54 (Sun): >>>putline>>> RCPT TO:<wu.yong@thelittlegym.com.cn>
+2014.11.23 10:34:54 (Sun): <<<getline<<< 250 Ok
+2014.11.23 10:34:54 (Sun): >>>putline>>> DATA
+2014.11.23 10:34:55 (Sun): <<<getline<<< 354 End data with <CR><LF>.<CR><LF>
+2014.11.23 10:34:56 (Sun): <<<getline<<< 250 Ok: queued as 
+2014.11.23 10:34:56 (Sun): >>>putline>>> QUIT
+2014.11.23 10:34:56 (Sun): <<<getline<<< 221 Bye
+2014.11.23 10:34:56 (Sun)-------------End of Session------------------
+
+2014.11.27 16:15:01 (Thu)------------Start of Session-----------------
+Blat v3.1.1 (build : Feb 27 2013 20:04:23)
+32-bit Windows, Full, Unicode
+2014.11.27 16:15:02 (Thu): <<<getline<<< 220 smtp.qq.com Esmtp QQ Mail Server
+2014.11.27 16:15:02 (Thu): >>>putline>>> EHLO server
+2014.11.27 16:15:02 (Thu): <<<getline<<< 250-smtp.qq.com
+2014.11.27 16:15:02 (Thu): <<<getline<<< 250-PIPELINING
+2014.11.27 16:15:02 (Thu): <<<getline<<< 250-SIZE 52428800
+2014.11.27 16:15:02 (Thu): <<<getline<<< 250-STARTTLS
+2014.11.27 16:15:02 (Thu): <<<getline<<< 250-AUTH LOGIN PLAIN
+2014.11.27 16:15:02 (Thu): <<<getline<<< 250-AUTH=LOGIN
+2014.11.27 16:15:02 (Thu): <<<getline<<< 250-MAILCOMPRESS
+2014.11.27 16:15:02 (Thu): <<<getline<<< 250 8BITMIME
+2014.11.27 16:15:04 (Thu): Sending 500036_TracetResut.txt to wu.yong@thelittlegym.com.cn
+2014.11.27 16:15:04 (Thu): Subject: 500036_TracetResut
+2014.11.27 16:15:04 (Thu): Login name is 57581600@qq.com
+2014.11.27 16:15:04 (Thu): Attached binary file: 500036_TracetResut.txt
+2014.11.27 16:15:04 (Thu): >>>putline>>> AUTH PLAIN  *****
+2014.11.27 16:15:06 (Thu): <<<getline<<< 235 Authentication successful
+2014.11.27 16:15:06 (Thu): >>>putline>>> MAIL FROM:<57581600@qq.com>
+2014.11.27 16:15:06 (Thu): <<<getline<<< 250 Ok
+2014.11.27 16:15:06 (Thu): >>>putline>>> RCPT TO:<wu.yong@thelittlegym.com.cn>
+2014.11.27 16:15:06 (Thu): <<<getline<<< 250 Ok
+2014.11.27 16:15:06 (Thu): >>>putline>>> DATA
+2014.11.27 16:15:06 (Thu): <<<getline<<< 354 End data with <CR><LF>.<CR><LF>
+2014.11.27 16:15:07 (Thu): <<<getline<<< 250 Ok: queued as 
+2014.11.27 16:15:07 (Thu): >>>putline>>> QUIT
+2014.11.27 16:15:07 (Thu): <<<getline<<< 221 Bye
+2014.11.27 16:15:07 (Thu)-------------End of Session------------------
+
+2014.12.03 12:25:38 (Wed)------------Start of Session-----------------
+Blat v3.1.1 (build : Feb 27 2013 20:04:23)
+32-bit Windows, Full, Unicode
+2014.12.03 12:25:40 (Wed): <<<getline<<< 220 qiye.163.com Anti-spam GT for Coremail System (163-hosting[20140416])
+2014.12.03 12:25:40 (Wed): >>>putline>>> EHLO tony-pc
+2014.12.03 12:25:41 (Wed): <<<getline<<< 250-mail
+2014.12.03 12:25:41 (Wed): <<<getline<<< 250-PIPELINING
+2014.12.03 12:25:41 (Wed): <<<getline<<< 250-AUTH LOGIN PLAIN
+2014.12.03 12:25:41 (Wed): <<<getline<<< 250-AUTH=LOGIN PLAIN
+2014.12.03 12:25:41 (Wed): <<<getline<<< 250-coremail 1Uxr2xKj7kG0xkI17xGrUDI0s8FY2U3Uj8Cz28x1UUUUU7Ic2I0Y2UF53h5sUCa0xDrUUUUj
+2014.12.03 12:25:41 (Wed): <<<getline<<< 250-STARTTLS
+2014.12.03 12:25:41 (Wed): <<<getline<<< 250 8BITMIME
+2014.12.03 12:25:45 (Wed): Sending 500005_TracetResut.txt to wu.yong@thelittlegym.com.cn
+2014.12.03 12:25:45 (Wed): Subject: 500005_TracetResut
+2014.12.03 12:25:45 (Wed): Login name is website@thelittlegym.com.cn
+2014.12.03 12:25:45 (Wed): Attached binary file: 500005_TracetResut.txt
+2014.12.03 12:25:45 (Wed): >>>putline>>> AUTH PLAIN  *****
+2014.12.03 12:25:45 (Wed): <<<getline<<< 550 User Is Locked
+2014.12.03 12:25:45 (Wed): *** Warning ***  The SMTP server did not accept Auth PLAIN value.
+*** Warning ***  Are your login userid and password correct?
+2014.12.03 12:25:45 (Wed): >>>putline>>> AUTH LOGIN
+2014.12.03 12:25:45 (Wed): <<<getline<<< 334 dXNlcm5hbWU6
+2014.12.03 12:25:45 (Wed): >>>putline>>> d2Vic2l0ZQ==
+2014.12.03 12:25:45 (Wed): <<<getline<<< 334 UGFzc3dvcmQ6
+2014.12.03 12:25:45 (Wed): >>>putline>>> MXFhenhzdzI=
+2014.12.03 12:25:45 (Wed): <<<getline<<< 550 User Is Locked
+2014.12.03 12:25:45 (Wed): *** Warning ***  The SMTP server did not accept Auth LOGIN PASSWD value.
+2014.12.03 12:25:45 (Wed): >>>putline>>> QUIT
+2014.12.03 12:25:46 (Wed): <<<getline<<< 221 Bye
+2014.12.03 12:25:46 (Wed)-------------End of Session------------------
+
+2014.12.03 12:28:44 (Wed)------------Start of Session-----------------
+Blat v3.1.1 (build : Feb 27 2013 20:04:23)
+32-bit Windows, Full, Unicode
+2014.12.03 12:28:44 (Wed): <<<getline<<< 220 qiye.163.com Anti-spam GT for Coremail System (163-hosting[20140416])
+2014.12.03 12:28:44 (Wed): >>>putline>>> EHLO tony-pc
+2014.12.03 12:28:44 (Wed): <<<getline<<< 250-mail
+2014.12.03 12:28:44 (Wed): <<<getline<<< 250-PIPELINING
+2014.12.03 12:28:44 (Wed): <<<getline<<< 250-AUTH LOGIN PLAIN
+2014.12.03 12:28:44 (Wed): <<<getline<<< 250-AUTH=LOGIN PLAIN
+2014.12.03 12:28:44 (Wed): <<<getline<<< 250-coremail 1Uxr2xKj7kG0xkI17xGrUDI0s8FY2U3Uj8Cz28x1UUUUU7Ic2I0Y2UFNBLGsUCa0xDrUUUUj
+2014.12.03 12:28:44 (Wed): <<<getline<<< 250-STARTTLS
+2014.12.03 12:28:44 (Wed): <<<getline<<< 250 8BITMIME
+2014.12.03 12:28:47 (Wed): Sending 500005_TracetResut.txt to wu.yong@thelittlegym.com.cn
+2014.12.03 12:28:47 (Wed): Subject: 500005_TracetResut
+2014.12.03 12:28:47 (Wed): Login name is website@thelittlegym.com.cn
+2014.12.03 12:28:47 (Wed): Attached binary file: 500005_TracetResut.txt
+2014.12.03 12:28:47 (Wed): >>>putline>>> AUTH PLAIN  *****
+2014.12.03 12:28:47 (Wed): <<<getline<<< 550 User Is Locked
+2014.12.03 12:28:47 (Wed): *** Warning ***  The SMTP server did not accept Auth PLAIN value.
+*** Warning ***  Are your login userid and password correct?
+2014.12.03 12:28:47 (Wed): >>>putline>>> AUTH LOGIN
+2014.12.03 12:28:47 (Wed): <<<getline<<< 334 dXNlcm5hbWU6
+2014.12.03 12:28:47 (Wed): >>>putline>>> d2Vic2l0ZQ==
+2014.12.03 12:28:47 (Wed): <<<getline<<< 334 UGFzc3dvcmQ6
+2014.12.03 12:28:47 (Wed): >>>putline>>> MXFhenhzdzI=
+2014.12.03 12:28:47 (Wed): <<<getline<<< 550 User Is Locked
+2014.12.03 12:28:47 (Wed): *** Warning ***  The SMTP server did not accept Auth LOGIN PASSWD value.
+2014.12.03 12:28:47 (Wed): >>>putline>>> QUIT
+2014.12.03 12:28:47 (Wed): <<<getline<<< 221 Bye
+2014.12.03 12:28:47 (Wed)-------------End of Session------------------
+
+2014.12.03 13:19:53 (Wed)------------Start of Session-----------------
+Blat v3.1.1 (build : Feb 27 2013 20:04:23)
+32-bit Windows, Full, Unicode
+Blat saw and processed these options, and was confused by the last one...
+    -to wu.yong@thelittlegym.com.cn
+    -base64
+    -charset Gb2312
+    -subject 500038_TracetResut
+    -server smtp.qiye.163.com
+    20
+Do not understand argument: 20
+2014.12.03 13:19:53 (Wed)-------------End of Session------------------
+
+2014.12.03 13:20:33 (Wed)------------Start of Session-----------------
+Blat v3.1.1 (build : Feb 27 2013 20:04:23)
+32-bit Windows, Full, Unicode
+2014.12.03 13:20:33 (Wed): unknown error code 2 when trying to open 500038_TracetResut.txt
+2014.12.03 13:20:33 (Wed)-------------End of Session------------------
+
+2014.12.03 13:22:58 (Wed)------------Start of Session-----------------
+Blat v3.1.1 (build : Feb 27 2013 20:04:23)
+32-bit Windows, Full, Unicode
+2014.12.03 13:22:58 (Wed): unknown error code 2 when trying to open 500038_TracetResut.txt
+2014.12.03 13:22:58 (Wed)-------------End of Session------------------
+
+2014.12.03 13:23:45 (Wed)------------Start of Session-----------------
+Blat v3.1.1 (build : Feb 27 2013 20:04:23)
+32-bit Windows, Full, Unicode
+2014.12.03 13:23:51 (Wed): <<<getline<<< 220 qiye.163.com Anti-spam GT for Coremail System (163-hosting[20140416])
+2014.12.03 13:23:51 (Wed): >>>putline>>> EHLO tony-pc
+2014.12.03 13:23:51 (Wed): <<<getline<<< 250-mail
+2014.12.03 13:23:51 (Wed): <<<getline<<< 250-PIPELINING
+2014.12.03 13:23:51 (Wed): <<<getline<<< 250-AUTH LOGIN PLAIN
+2014.12.03 13:23:51 (Wed): <<<getline<<< 250-AUTH=LOGIN PLAIN
+2014.12.03 13:23:51 (Wed): <<<getline<<< 250-coremail 1Uxr2xKj7kG0xkI17xGrUDI0s8FY2U3Uj8Cz28x1UUUUU7Ic2I0Y2UrUs8d6UCa0xDrUUUUj
+2014.12.03 13:23:51 (Wed): <<<getline<<< 250-STARTTLS
+2014.12.03 13:23:51 (Wed): <<<getline<<< 250 8BITMIME
+2014.12.03 13:23:55 (Wed): Sending 500005_TracetResut.txt to wu.yong@thelittlegym.com.cn
+2014.12.03 13:23:55 (Wed): Subject: 500005_TracetResut
+2014.12.03 13:23:55 (Wed): Login name is website@thelittlegym.com.cn
+2014.12.03 13:23:55 (Wed): Attached binary file: 500005_TracetResut.txt
+2014.12.03 13:23:55 (Wed): >>>putline>>> AUTH PLAIN  *****
+2014.12.03 13:23:55 (Wed): <<<getline<<< 550 User Is Locked
+2014.12.03 13:23:55 (Wed): *** Warning ***  The SMTP server did not accept Auth PLAIN value.
+*** Warning ***  Are your login userid and password correct?
+2014.12.03 13:23:55 (Wed): >>>putline>>> AUTH LOGIN
+2014.12.03 13:23:55 (Wed): <<<getline<<< 334 dXNlcm5hbWU6
+2014.12.03 13:23:55 (Wed): >>>putline>>> d2Vic2l0ZQ==
+2014.12.03 13:23:55 (Wed): <<<getline<<< 334 UGFzc3dvcmQ6
+2014.12.03 13:23:55 (Wed): >>>putline>>> MXFhenhzdzI=
+2014.12.03 13:23:55 (Wed): <<<getline<<< 550 User Is Locked
+2014.12.03 13:23:55 (Wed): *** Warning ***  The SMTP server did not accept Auth LOGIN PASSWD value.
+2014.12.03 13:23:55 (Wed): >>>putline>>> QUIT
+2014.12.03 13:23:55 (Wed): <<<getline<<< 221 Bye
+2014.12.03 13:23:55 (Wed)-------------End of Session------------------
+
+2014.12.03 13:29:34 (Wed)------------Start of Session-----------------
+Blat v3.1.1 (build : Feb 27 2013 20:04:23)
+32-bit Windows, Full, Unicode
+2014.12.03 13:29:34 (Wed): <<<getline<<< 220 qiye.163.com Anti-spam GT for Coremail System (163-hosting[20140416])
+2014.12.03 13:29:34 (Wed): >>>putline>>> EHLO tony-pc
+2014.12.03 13:29:34 (Wed): <<<getline<<< 250-mail
+2014.12.03 13:29:34 (Wed): <<<getline<<< 250-PIPELINING
+2014.12.03 13:29:34 (Wed): <<<getline<<< 250-AUTH LOGIN PLAIN
+2014.12.03 13:29:34 (Wed): <<<getline<<< 250-AUTH=LOGIN PLAIN
+2014.12.03 13:29:34 (Wed): <<<getline<<< 250-coremail 1Uxr2xKj7kG0xkI17xGrUDI0s8FY2U3Uj8Cz28x1UUUUU7Ic2I0Y2UrsTr8VUCa0xDrUUUUj
+2014.12.03 13:29:34 (Wed): <<<getline<<< 250-STARTTLS
+2014.12.03 13:29:34 (Wed): <<<getline<<< 250 8BITMIME
+2014.12.03 13:29:37 (Wed): Sending 500005_TracetResut.txt to wu.yong@thelittlegym.com.cn
+2014.12.03 13:29:37 (Wed): Subject: 500005_TracetResut
+2014.12.03 13:29:37 (Wed): Login name is website@thelittlegym.com.cn
+2014.12.03 13:29:37 (Wed): Attached binary file: 500005_TracetResut.txt
+2014.12.03 13:29:37 (Wed): >>>putline>>> AUTH PLAIN  *****
+2014.12.03 13:29:37 (Wed): <<<getline<<< 550 User Is Locked
+2014.12.03 13:29:37 (Wed): *** Warning ***  The SMTP server did not accept Auth PLAIN value.
+*** Warning ***  Are your login userid and password correct?
+2014.12.03 13:29:37 (Wed): >>>putline>>> AUTH LOGIN
+2014.12.03 13:29:37 (Wed): <<<getline<<< 334 dXNlcm5hbWU6
+2014.12.03 13:29:37 (Wed): >>>putline>>> d2Vic2l0ZQ==
+2014.12.03 13:29:37 (Wed): <<<getline<<< 334 UGFzc3dvcmQ6
+2014.12.03 13:29:37 (Wed): >>>putline>>> MXFhenhzdzI=
+2014.12.03 13:29:37 (Wed): <<<getline<<< 550 User Is Locked
+2014.12.03 13:29:37 (Wed): *** Warning ***  The SMTP server did not accept Auth LOGIN PASSWD value.
+2014.12.03 13:29:37 (Wed): >>>putline>>> QUIT
+2014.12.03 13:29:37 (Wed): <<<getline<<< 221 Bye
+2014.12.03 13:29:37 (Wed)-------------End of Session------------------
+
+2014.12.03 13:30:55 (Wed)------------Start of Session-----------------
+Blat v3.1.1 (build : Feb 27 2013 20:04:23)
+32-bit Windows, Full, Unicode
+2014.12.03 13:30:55 (Wed): <<<getline<<< 220 qiye.163.com Anti-spam GT for Coremail System (163-hosting[20140416])
+2014.12.03 13:30:55 (Wed): >>>putline>>> EHLO tony-pc
+2014.12.03 13:30:55 (Wed): <<<getline<<< 250-mail
+2014.12.03 13:30:55 (Wed): <<<getline<<< 250-PIPELINING
+2014.12.03 13:30:55 (Wed): <<<getline<<< 250-AUTH LOGIN PLAIN
+2014.12.03 13:30:55 (Wed): <<<getline<<< 250-AUTH=LOGIN PLAIN
+2014.12.03 13:30:55 (Wed): <<<getline<<< 250-coremail 1Uxr2xKj7kG0xkI17xGrUDI0s8FY2U3Uj8Cz28x1UUUUU7Ic2I0Y2UrWbEeoUCa0xDrUUUUj
+2014.12.03 13:30:55 (Wed): <<<getline<<< 250-STARTTLS
+2014.12.03 13:30:55 (Wed): <<<getline<<< 250 8BITMIME
+2014.12.03 13:30:58 (Wed): Sending 500005_TracetResut.txt to wu.yong@thelittlegym.com.cn
+2014.12.03 13:30:58 (Wed): Subject: 500005_TracetResut
+2014.12.03 13:30:58 (Wed): Login name is website@thelittlegym.com.cn
+2014.12.03 13:30:58 (Wed): Attached binary file: 500005_TracetResut.txt
+2014.12.03 13:30:58 (Wed): >>>putline>>> AUTH PLAIN  *****
+2014.12.03 13:30:58 (Wed): <<<getline<<< 550 User Is Locked
+2014.12.03 13:30:58 (Wed): *** Warning ***  The SMTP server did not accept Auth PLAIN value.
+*** Warning ***  Are your login userid and password correct?
+2014.12.03 13:30:58 (Wed): >>>putline>>> AUTH LOGIN
+2014.12.03 13:30:58 (Wed): <<<getline<<< 334 dXNlcm5hbWU6
+2014.12.03 13:30:58 (Wed): >>>putline>>> d2Vic2l0ZQ==
+2014.12.03 13:30:58 (Wed): <<<getline<<< 334 UGFzc3dvcmQ6
+2014.12.03 13:30:58 (Wed): >>>putline>>> MXFhenhzdzI=
+2014.12.03 13:30:58 (Wed): <<<getline<<< 550 User Is Locked
+2014.12.03 13:30:58 (Wed): *** Warning ***  The SMTP server did not accept Auth LOGIN PASSWD value.
+2014.12.03 13:30:58 (Wed): >>>putline>>> QUIT
+2014.12.03 13:30:58 (Wed): <<<getline<<< 221 Bye
+2014.12.03 13:30:58 (Wed)-------------End of Session------------------
+
+2014.12.03 16:02:37 (Wed)------------Start of Session-----------------
+Blat v3.1.1 (build : Feb 27 2013 20:04:23)
+32-bit Windows, Full, Unicode
+2014.12.03 16:02:38 (Wed): <<<getline<<< 220 smtp.qq.com Esmtp QQ Mail Server
+2014.12.03 16:02:38 (Wed): >>>putline>>> EHLO tony-pc.qq.com
+2014.12.03 16:02:38 (Wed): <<<getline<<< 250-smtp.qq.com
+2014.12.03 16:02:38 (Wed): <<<getline<<< 250-PIPELINING
+2014.12.03 16:02:38 (Wed): <<<getline<<< 250-SIZE 52428800
+2014.12.03 16:02:38 (Wed): <<<getline<<< 250-STARTTLS
+2014.12.03 16:02:38 (Wed): <<<getline<<< 250-AUTH LOGIN PLAIN
+2014.12.03 16:02:38 (Wed): <<<getline<<< 250-AUTH=LOGIN
+2014.12.03 16:02:38 (Wed): <<<getline<<< 250-MAILCOMPRESS
+2014.12.03 16:02:38 (Wed): <<<getline<<< 250 8BITMIME
+2014.12.03 16:02:41 (Wed): Sending 500005_TracetResut.txt to wu.yong@thelittlegym.com.cn
+2014.12.03 16:02:41 (Wed): Subject: 500005_TracetResut
+2014.12.03 16:02:41 (Wed): Login name is 57581600@qq.com
+2014.12.03 16:02:41 (Wed): Attached binary file: 500005_TracetResut.txt
+2014.12.03 16:02:41 (Wed): Try number 1 of 3.
+2014.12.03 16:02:41 (Wed): >>>putline>>> AUTH PLAIN  *****
+2014.12.03 16:02:41 (Wed): <<<getline<<< 235 Authentication successful
+2014.12.03 16:02:41 (Wed): >>>putline>>> MAIL FROM:<57581600@qq.com>
+2014.12.03 16:02:41 (Wed): <<<getline<<< 250 Ok
+2014.12.03 16:02:41 (Wed): >>>putline>>> RCPT TO:<wu.yong@thelittlegym.com.cn>
+2014.12.03 16:02:41 (Wed): <<<getline<<< 250 Ok
+2014.12.03 16:02:41 (Wed): >>>putline>>> DATA
+2014.12.03 16:02:41 (Wed): <<<getline<<< 354 End data with <CR><LF>.<CR><LF>
+2014.12.03 16:02:42 (Wed): <<<getline<<< 250 Ok: queued as 
+2014.12.03 16:02:42 (Wed): >>>putline>>> QUIT
+2014.12.03 16:02:42 (Wed): <<<getline<<< 221 Bye
+2014.12.03 16:02:42 (Wed)-------------End of Session------------------
